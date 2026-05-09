@@ -1,2 +1,15 @@
 # Memo-Mistral-AI-Chatbot
-Memo-Mistral AI Chatbot is a memory-enabled conversational AI assistant built using Python, Streamlit, Langchain, and Ollama with the Mistral LLM.
+A conversational AI chatbot with memory built using Python, Streamlit, LangChain, and Ollama.
+
+# Tech Stack
+- Python
+- Streamlit
+- LangChain
+- Ollama
+- Mistral LLM
+- Session-based Memory
+
+# The three strong identity features of this Project is:
+- Local LLM using Ollama
+- Conversational memory using LangChain chat history
+- Interactive UI using Streamlit
